@@ -1,0 +1,24 @@
+  {
+    "teams": [
+      { "id": "1", "name": "Team Spirit", "image": "https://kappa.lol/I6hT_" },
+      { "id": "2", "name": "Team Falcons", "image": "https://kappa.lol/b0o9V" },
+      { "id": "3", "name": "Natus Vincere", "image": "https://kappa.lol/f35R1" }
+    ],
+    "players": [
+      { "teamId": "1", "name": "Satanic" },
+      { "teamId": "1", "name": "Larl" },
+      { "teamId": "1", "name": "Collapse" },
+      { "teamId": "1", "name": "rue" },
+      { "teamId": "1", "name": "Miposhka" },
+      { "teamId": "2", "name": "skiter" },
+      { "teamId": "2", "name": "Malr1ne" },
+      { "teamId": "2", "name": "ATF" },
+      { "teamId": "2", "name": "Cr1t-" },
+      { "teamId": "2", "name": "Sneyking" },
+      { "teamId": "3", "name": "Yuragi" },
+      { "teamId": "3", "name": "sanctity" },
+      { "teamId": "3", "name": "nefrit" },
+      { "teamId": "3", "name": "Zayac" },
+      { "teamId": "3", "name": "Malady" }
+    ]
+  }
